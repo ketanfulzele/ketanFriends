@@ -58,5 +58,47 @@ export const robots = [
     name: 'Anushka Patil',
     username: 'Chepti',
     email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 11,
+    name: 'Sonal fulzele',
+    username: 'Sona',
+    email: 'Rey.Padberg@karina.biz'
+  } ,
+  {
+    id: 12,
+    name: 'Rohan fulzele',
+    username: 'Rohan',
+    email: 'Rey.Padberg@karina.biz'
+  } ,
+  {
+    id: 13,
+    name: 'Rani fulzele',
+    username: 'Rani',
+    email: 'Padberg@karina.biz'
+  } ,
+  {
+    id: 14,
+    name: 'Shubhangi fulzele',
+    username: 'Shubhu',
+    email: 'Rey.Padberg@karina.biz'
+  } ,
+  {
+    id: 15,
+    name: 'Supriya fulzele',
+    username: 'Supriya',
+    email: 'Rey.Padberg@karina.biz'
+  } ,
+  {
+    id: 16,
+    name: 'Akansha ramteke ',
+    username: 'Akansha',
+    email: 'Akanshag@karina.biz'
+  } ,
+  {
+    id: 17,
+    name: 'nupur bagul ',
+    username: 'Minni',
+    email: 'Akanshag@karina.biz'
   }
 ];

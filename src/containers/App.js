@@ -45,6 +45,7 @@ class App extends Component {    // class bas ecomponents
         <div className='tc'>
           <h1 className='tc ma0 pa3 f3'>K-ten Friends</h1>
           <SearchBox searchChange={this.onsearchchange} />
+          <h1 className='tc pa3 f4'>Search  Your name May be you are my friend</h1>
           <Scroll>
             {/* checking that  our page produce any any error or not if error produce then render something if not then render child */}
             <ErrorBoundry>   
