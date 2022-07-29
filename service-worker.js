@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ketanfulzele/K10-friends.git/precache-manifest.7527c4f25eb515fe69999c1ead5fad91.js"
+  "/ketanfulzele/ketanFriends.git/precache-manifest.8603ffbc8fa05d87e262983dca69fdde.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ketanfulzele/K10-friends.git/index.html", {
+workbox.routing.registerNavigationRoute("/ketanfulzele/ketanFriends.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
