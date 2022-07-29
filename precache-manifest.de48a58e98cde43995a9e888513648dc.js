@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2aa9903877e061043ef6",
+    "revision": "cb0e2c2aa0d8865f4d8c",
     "url": "/ketanFriends/static/css/main.b05dda27.chunk.css"
   },
   {
-    "revision": "2aa9903877e061043ef6",
-    "url": "/ketanFriends/static/js/main.2aa99038.chunk.js"
+    "revision": "cb0e2c2aa0d8865f4d8c",
+    "url": "/ketanFriends/static/js/main.cb0e2c2a.chunk.js"
   },
   {
     "revision": "9863931913954e89bf2e",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/ketanFriends/static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "1d4c9d4dc9f22bfe9b81ab106123cfdb",
+    "revision": "e28d67c2064beae6a4ea1fc74f582b58",
     "url": "/ketanFriends/index.html"
   }
 ];
