@@ -5,6 +5,7 @@ export const robots = [
     username: 'Jayant',
     email: 'Sincere@april.biz'
   },
+  
   {
     id: 2,
     name: 'Nikhil shahare',
@@ -100,5 +101,11 @@ export const robots = [
     name: 'nupur bagul ',
     username: 'Minni',
     email: 'Akanshag@karina.biz'
-  }
+  },
+  {
+    id: 18,
+    name: 'Sarthak hatwar',
+    username: 'Sarthak',
+    email: 'Sincere@april.biz'
+  },
 ];
